@@ -5,10 +5,14 @@ A selenium-based tool which takes a list of URLs as input and outputs all the sc
 To Run: python topMillion.py "totalMachines" "current machine number"
 
 e.g for total 5 machines run 
-on machine 1: python topMillion.py 5 1
+on machine 1: python topMillion.py 5 1 
+
 on machine 2: python topMillion.py 5 2
+
 on machine 3: python topMillion.py 5 3
+
 on machine 4: python topMillion.py 5 4
+
 on machine 5: python topMillion.py 5 5
 
 
